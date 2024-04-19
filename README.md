@@ -15,9 +15,9 @@ digital advertising ecosystem.
 The data is from [here](https://www.kaggle.com/competitions/avazu-ctr-prediction/overview). The code has been uploaded to the repo. 
 
 ## Summary
-- Used advertisement CTR(Click through rate) data sets to predict whether an advertisement will be clicked after each
+- Used advertisement **CTR(Click through rate)** data sets to predict whether an advertisement will be clicked after each
 impression via Python.
 - Utilized EDA and visualization to explore data patterns, along with data cleaning.
 - Performed frequency encoding, data split and standardization before model training.
-- Built and trained logistic regression, k-nearest-neighbors, random forest and XGBoost with 5-fold cross validation,
+- Built and trained **logistic regression**, **k-nearest-neighbors**, **random forest** and **XGBoost** with **5-fold cross validation**,
 fine-tuned parameters in regularization term and attained best F1 score = 0.91
