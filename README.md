@@ -20,4 +20,4 @@ impression via Python.
 - Utilized EDA and visualization to explore data patterns, along with data cleaning.
 - Performed frequency encoding, data split and standardization before model training.
 - Built and trained **logistic regression**, **k-nearest-neighbors**, **random forest** and **XGBoost** with **5-fold cross validation**,
-fine-tuned parameters in regularization term and attained best F1 score = 0.91
+fine-tuned parameters in regularization term and attained best F1 score = 0.91.
